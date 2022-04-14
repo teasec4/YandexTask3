@@ -12,7 +12,7 @@
   Описание файлов
 </h3>
 
-Использовал <b>python-telegram-bot</b>
+Использовал <b>python-telegram-bot</b> и <b>BeautifulSoup</b>
 
 <ul>
   <li>
